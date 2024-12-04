@@ -3,3 +3,7 @@ body {
     background: rgb(2, 0, 26);
     background: linear-gradient(90deg, rgb(2, 0, 36,) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
 }
+
+.p1 {
+    font-family: "Lucida Console", monospace;
+}
